@@ -1,7 +1,7 @@
 # jpa02-YYA0
 
 
-# https://github.com/ucsb-cs156-f22/jpa02-YYA0
+# Repo:https://github.com/ucsb-cs156-f22/jpa02-YYA0
 
 
 # On Heroku: https://jpa02-yu-yao.herokuapp.com
